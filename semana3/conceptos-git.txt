@@ -1,0 +1,6 @@
+Repositorio
+Un repositorio es un lugar físico o digital donde se almacena y organiza información, archivos o documentos.
+commit
+Un commit es un registro de los cambios realizados en un archivo o proyecto dentro de un sistema de control de versiones.
+push
+Un push es la acción de enviar los cambios realizados en un repositorio local hacia un repositorio remoto.
