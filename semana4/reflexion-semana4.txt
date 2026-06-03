@@ -1,0 +1,2 @@
+cat > reflexion-semana4txt
+cat > reflexion-semana4.txt
