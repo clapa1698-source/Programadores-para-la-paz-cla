@@ -1,0 +1,23 @@
+1. ¿QUÉ HACE ESTA RUTA?
+La ruta 'POST /reporte' es un punto de acceso (endpoint) en el servidor 
+diseñado para recibir información enviada por el cliente de forma segura. 
+A diferencia de un método GET (que solo consulta datos), este método POST 
+toma los datos que el usuario incluye en el cuerpo de la solicitud (body) 
+y los procesa para registrar, guardar o crear un nuevo informe o reporte 
+en la base de datos del sistema.
+
+2. ¿PARA QUÉ PODRÍA SERVIR EN UNA APLICACIÓN COMUNITARIA?
+
+En el contexto de una aplicación comunitaria (por ejemplo, una red de apoyo, 
+un sistema de alertas locales o una plataforma escolar), esta ruta es 
+fundamental para que las personas interactúen activamente. Podría servir para:
+
+* Reportar incidencias o necesidades: Permitir a los habitantes o líderes 
+  comunitarios informar sobre problemas en la infraestructura local (fallas 
+  de servicios, solicitudes de mantenimiento).
+* Registro de novedades pedagógicas o de bienestar: En entornos educativos, 
+  los docentes o familias pueden enviar reportes sobre el desarrollo, 
+  asistencia o alertas de nutrición y salud de los niños.
+* Alertas de seguridad o apoyo ciudadano: Un canal directo para que la 
+  comunidad envíe reportes en tiempo real sobre situaciones que requieran 
+  atención o colaboración inmediata de los demás miembros.
