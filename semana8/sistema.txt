@@ -1,0 +1,15 @@
+1. Qué información muestra cada comando
+
+- uname -a: Muestra información general del sistema operativo, incluyendo nombre del kernel, versión, fecha de compilación y arquitectura del hardware.
+- top: Muestra los procesos que se están ejecutando, el uso de CPU, uso de memoria RAM y la carga promedio del sistema en tiempo real.
+- df -h: Muestra el uso de espacio en disco de todas las particiones montadas. El parámetro -h presenta los datos en formato legible para humanos, en MB y GB.
+- free -h: Muestra la cantidad de memoria RAM total, usada, libre y en caché/buffers del sistema.
+- ip a: Muestra la configuración de todas las interfaces de red, incluyendo direcciones IP, estado de la interfaz y máscara de subred.
+
+2. Por qué es útil conocer información del sistema cuando se administra un servidor
+
+Conocer la información del sistema es fundamental para la administración porque permite:
+1. Monitorear el rendimiento: Detectar si la CPU, RAM o disco están saturados antes de que afecten el servicio.
+2. Solucionar problemas: Identificar la causa de lentitud, errores o caídas del servidor revisando procesos, memoria o espacio en disco.
+3. Planificar recursos: Saber cuándo es necesario aumentar RAM, CPU o espacio de almacenamiento según el consumo actual.
+4. Mantener la seguridad: Verificar la versión del sistema con uname para aplicar actualizaciones y parches de seguridad.

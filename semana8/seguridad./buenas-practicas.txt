@@ -1,0 +1,3 @@
+*Mantener el software y antivirus actualizado
+*Activar la verificación en dos pasos
+*Usar contraseñas fuertes y únicas
