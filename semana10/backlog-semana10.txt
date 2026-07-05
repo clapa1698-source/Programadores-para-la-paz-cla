@@ -1,0 +1,7 @@
+Como vecino quiero reportar alumbrado público dañado para que la alcaldía lo repare y mejorar la seguridad nocturna.
+
+Como líder comunitario quiero ver un mapa de zonas con más reportes para priorizar las rondas de vigilancia vecinal.
+
+Como funcionario de la alcaldía quiero recibir los reportes filtrados por barrio para asignar cuadrillas de mantenimiento más rápido.
+
+Como madre de familia quiero consultar si una calle es segura antes de dejar que mis hijos pasen por ahí solos.
