@@ -1,0 +1,4 @@
+El login es el proceso de autenticación mediante el cual una aplicación valida las credenciales de un usuario para permitirle el ingreso a una interfaz o sección privada. 
+Es indispensable que ciertas rutas del sistema estén protegidas porque manejan información confidencial, registros internos o acciones administrativas que no deben ser alteradas ni visualizadas por cualquier persona. 
+Exponer públicamente este tipo de datos pondría en riesgo la integridad de la plataforma. 
+Por ende, bajo ninguna circunstancia se deben hacer públicos elementos sensibles como contraseñas, documentos de identidad, números telefónicos, direcciones residenciales, tokens de acceso o claves privadas de API de la comunidad.

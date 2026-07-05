@@ -1,0 +1,5 @@
+Una plataforma tecnológica enfocada en la participación ciudadana debe integrar de forma obligatoria una base de datos, autenticación de usuarios y protección estricta de la información para garantizar su viabilidad, legitimidad y confianza. 
+La base de datos proporciona la estructura necesaria para almacenar de manera organizada y auditable las necesidades de la comunidad, permitiendo una gestión ágil en la ejecución de mejoras. 
+Por otro lado, la autenticación asegura que quienes interactúan en la plataforma sean miembros reales y autorizados del entorno comunitario, evitando el spam o la manipulación malintencionada de los procesos de votación y apoyo. 
+Finalmente, la protección de datos es un pilar ético y legal indispensable; al resguardar la identidad y la información sensible de los ciudadanos, se previene la fuga de datos, el acoso o el uso indebido de información personal. 
+Esto no solo promueve un entorno digital seguro y transparente, sino que incentiva a los usuarios a expresarse y colaborar con total tranquilidad, sabiendo que el sistema prioriza su privacidad.

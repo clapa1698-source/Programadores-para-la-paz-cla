@@ -1,0 +1,18 @@
+Entidad: Incidencia
+Campos principales:
+- id_incidencia (Numérico, Clave primaria)
+- titulo (Texto)
+- descripcion (Texto)
+- fecha_inicio (Fecha)
+- estado (Texto: Abierto/En proceso/Resuelto)
+Propósito:
+Registrar y almacenar los reportes, problemas o necesidades de la comunidad estudiantil para mantener un control ordenado de su estado.
+
+Entidad: Apoyo_Estudiantil
+Campos principales:
+- id_apoyo (Numérico, Clave primaria)
+- incidente_id (Numérico, Clave foránea)
+- usuario_academico (Texto)
+- fecha_apoyo (Fecha)
+Propósito:
+Registrar los apoyos que recibe cada incidencia registrada para medir la participación estudiantil y priorizar las soluciones comunitarias.

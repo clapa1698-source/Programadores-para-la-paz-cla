@@ -1,0 +1,7 @@
+La interfaz de la plataforma estará diseñada de manera clara, accesible y sencilla, estructurada en los siguientes bloques principales:
+
+1. Formulario de Creación: Un espacio interactivo donde el usuario autenticado puede reportar una incidencia ingresando un título, descripción detallada y la fecha de inicio.
+2. Vista de Incidencias: Un panel o dashboard dinámico que lista de forma clara todas las problemáticas comunitarias disponibles para su lectura.
+3. Botón de Acción y Contador: Cada incidencia de la lista contará con un botón interactivo para "Brindar Apoyo" y un contador numérico que refleje en tiempo real cuántos usuarios se han sumado a la causa.
+4. Protección de Datos: La interfaz omitirá cualquier tipo de información privada de los usuarios en las pantallas públicas para garantizar el anonimato y la seguridad.
+5.
