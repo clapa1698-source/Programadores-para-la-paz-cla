@@ -1,0 +1,5 @@
+- Hacer copias de seguridad periódicas de la base de datos y archivos.
+- Cerrar sesión automáticamente por inactividad en la plataforma.
+- Validar y filtrar todo lo que suben los usuarios: fotos, archivos y comentarios.
+- Usar firewall para bloquear accesos no autorizados al servidor.
+- Notificar por correo al usuario cuando se detecte un inicio de sesión desde un dispositivo nuevo.

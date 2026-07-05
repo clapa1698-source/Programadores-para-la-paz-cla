@@ -1,0 +1,9 @@
+Es el software principal que administra los recursos del computador y permite ejecutar aplicaciones y servicios.
+Node.js:
+Es un entorno de ejecución que permite correr aplicaciones JavaScript en el servidor.
+Aplicación server.js:
+Es el archivo que contiene el código del servidor y define cómo responder a las solicitudes de los usuarios.
+Puerto:
+Es el punto de comunicación por donde el servidor recibe y envía información a través de la red.
+Logs:
+Son registros que almacenan eventos, actividades y errores del sistema para facilitar el monitoreo y la solución de problemas.

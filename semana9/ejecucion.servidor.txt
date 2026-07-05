@@ -1,0 +1,4 @@
+Al ejecutar node server.js, Node.js inicia la aplicación y pone en funcionamiento el servidor web.
+En la terminal aparece un mensaje indicando que el servidor está escuchando en un puerto determinado y que está listo para recibir solicitudes.
+Cuando visito la ruta /estado, el servidor responde con un mensaje en formato JSON mostrando que el servicio está activo y funcionando correctamente.
+
