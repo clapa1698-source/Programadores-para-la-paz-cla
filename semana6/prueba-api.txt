@@ -1,0 +1,10 @@
+Al enviar la petición POST a http://localhost:3000/registro con los datos de "Maria", el servidor procesa el cuerpo de la solicitud y devuelve una respuesta en formato JSON con un estado HTTP 200 (OK) o 201 (Created). La estructura de la respuesta suele confirmar la recepción de los datos de la siguiente manera:
+
+{
+  "status": "success",
+  "mensaje": "Registro recibido correctamente",
+  "datos": {
+    "nombre": "Maria",
+    "mensaje": "Hola comunidad"
+  }
+}

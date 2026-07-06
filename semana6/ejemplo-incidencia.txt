@@ -1,0 +1,4 @@
+{
+  "tipo": "Infraestructura Vial",
+  "descripcion": "Hay un bache profundo en el cruce de la avenida principal con la calle 45 que está afectando el tráfico."
+}
