@@ -1,0 +1,5 @@
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en el alumbrado público del parque principal."
+}

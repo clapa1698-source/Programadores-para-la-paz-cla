@@ -1,1 +1,1 @@
-Prueba de reportes semana 7
+Al consultar la ruta GET /reportes, el sistema muestra la lista de reportes que han sido registrados previamente. La información se devuelve en formato JSON, permitiendo visualizar los datos de cada reporte, como el identificador, el tipo y la descripción. Esto facilita la consulta y el seguimiento de las incidencias registradas por los ciudadanos.Prueba de reportes semana 7
